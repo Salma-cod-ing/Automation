@@ -1,3 +1,4 @@
+
 package Academy;
 
 import static org.junit.Assert.assertEquals;
